@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Creacion Tablas", "Creacion Tablas\Creacion Tablas.ssmssqlproj", "{6A5BB068-CFCD-4CF4-99A3-A0F41F502EB9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Functions", "Functions\Functions.ssmssqlproj", "{EAA054D8-106F-408C-88AF-95CDA4E75FE4}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "View", "View\View.ssmssqlproj", "{D178D875-1746-4EB1-A0F2-FF78A784803A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Proceadure", "Proceadure\Proceadure.ssmssqlproj", "{84CBE618-2D3C-4FA4-B1C1-D6AF3FE39F68}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "administracion", "administracion\administracion.ssmssqlproj", "{4BC36340-1811-4F2E-BA0F-296F27A66705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A5BB068-CFCD-4CF4-99A3-A0F41F502EB9}.Default|Default.ActiveCfg = Default
+		{EAA054D8-106F-408C-88AF-95CDA4E75FE4}.Default|Default.ActiveCfg = Default
+		{D178D875-1746-4EB1-A0F2-FF78A784803A}.Default|Default.ActiveCfg = Default
+		{84CBE618-2D3C-4FA4-B1C1-D6AF3FE39F68}.Default|Default.ActiveCfg = Default
+		{ABC4B761-411E-4073-9327-E1E99440DC66}.Default|Default.ActiveCfg = Default
+		{4BC36340-1811-4F2E-BA0F-296F27A66705}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C10E2931-6A16-48C6-A638-C6A51DA8E561}
+	EndGlobalSection
+EndGlobal
